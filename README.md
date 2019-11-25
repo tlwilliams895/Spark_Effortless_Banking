@@ -29,25 +29,25 @@ My project presentation will focus on the following:
 
 ## Technologies
 
-Java
-MySQL
-Spring Boot
-Bootstrap
-HTML/CSS/JavaScript
+- Java
+- MySQL
+- Spring Boot
+- Bootstrap
+- HTML/CSS/JavaScript
 
 ## Necessary Tools to Learn
 
-How to create an API with Java
-How to host a full web app
-CSS Grid
+- How to create an API with Java
+- How to host a full web app
+- CSS Grid
 
 ## Self-Evaluation
 
 Be sure to include and answer the following:
 
-How well your project implements the desired functionality?
-How well you document your project?
-How easy or hard it is to break your project (cause an unhandled or undocumented exception to occur, or to gain access to functionality that should not be exposed)?
+- How well your project implements the desired functionality?
+- How well you document your project?
+- How easy or hard it is to break your project (cause an unhandled or undocumented exception to occur, or to gain access to functionality that should not be exposed)?
 
 ## Project Tracker [Trello Project Tracker]( https://trello.com/b/zasX6kul/lc101-project )
 
