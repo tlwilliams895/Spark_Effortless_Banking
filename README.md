@@ -50,3 +50,5 @@ Project Tracker [Trello Project Tracker]( https://trello.com/b/zasX6kul/lc101-pr
 
 Project Wireframe:
 
+![project_wireframe](https://user-images.githubusercontent.com/23311277/69454807-0fef7300-0d35-11ea-93ed-00da55a63619.jpg)
+
